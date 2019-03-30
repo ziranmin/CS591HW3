@@ -6,7 +6,7 @@ The code for second part is Ziran_Min_code_part2.ipynb.
 
 ######################################################
 
-File Ziran_Min_code_part1_main.ipynb, is not the correct main code for part one. I recommend you to open Ziran_Min_code_part1_lr002.ipynb first because this is the right code for generating the output for question 2 with learning rate = 0.002 it's in the compressed file or folder called part1_other_code).
+File Ziran_Min_code_part1_main.ipynb, is not the correct main code for part one. I recommend you to open Ziran_Min_code_part1_lr002.ipynb first because this is the right code for generating the output for question 2 with learning rate = 0.002 (it's in the compressed file or folder called part1_other_code).
 
 ######################################################
 
